@@ -1,5 +1,6 @@
 name: reliacloud
-description: A sample chrome packaged application
-#dependencies:
-#  browser: any
-#  js: any
+description: A cloud reliability simulator.
+dependencies:
+  browser: any
+  js: any
+  chart: any # 0.1.4

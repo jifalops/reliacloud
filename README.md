@@ -1,4 +1,4 @@
-reliacloud-s
+reliacloud
 ============
 
 Cloud Reliability Simulator

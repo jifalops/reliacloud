@@ -5,7 +5,7 @@ int boundsChange = 100;
 
 void main() {
   query("#sample_text_id")
-    ..text = "Click me!"
+    ..text = "Click me!"    
     ..onClick.listen(resizeWindow);
 }
 
