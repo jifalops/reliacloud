@@ -1,3 +1,12 @@
 # Dart Editor files
 .buildlog
 .settings
+
+# Imported packages
+packages
+
+# Compiled files
+out
+
+# For pub packages uncomment this line:
+#pubspec.lock
